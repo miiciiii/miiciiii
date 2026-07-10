@@ -20,7 +20,7 @@ I’m a passionate developer who loves turning ideas into practical, everyday so
 - Web & API Development
 
 ### 👨‍💻 Portfolio
-- Explore my projects: [miiciiii.github.io/PORTFOLIO.CSvillaflor](https://jus-tech.vercel.app/)
+- Explore my projects: [https://jus-tech.vercel.app/](https://jus-tech.vercel.app/)
 
 ### 📫 Contact Me
 - Email: **micovillaflor.comsci.dev@gmail.com**
