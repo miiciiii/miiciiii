@@ -11,13 +11,6 @@ I’m a passionate developer who loves turning ideas into practical, everyday so
 
 ---
 
-### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=miiciiii&theme=gruvbox" alt="Trophies" />
-</p>
-
----
-
 ### 🔭 Current Project
 - Working on: [Integrated Campus Safety and Security System](https://github.com/B1ll-C/ISSC-Django)
 
@@ -27,7 +20,7 @@ I’m a passionate developer who loves turning ideas into practical, everyday so
 - Web & API Development
 
 ### 👨‍💻 Portfolio
-- Explore my projects: [miiciiii.github.io/PORTFOLIO.CSvillaflor](https://miiciiii.github.io/PORTFOLIO.CSvillaflor/)
+- Explore my projects: [miiciiii.github.io/PORTFOLIO.CSvillaflor](https://jus-tech.vercel.app/)
 
 ### 📫 Contact Me
 - Email: **micovillaflor.comsci.dev@gmail.com**
@@ -36,7 +29,7 @@ I’m a passionate developer who loves turning ideas into practical, everyday so
 
 ### 🤝 Connect With Me
 <p align="left">
-  <a href="https://www.linkedin.com/in/villaflorjustinmico-csportfolio" target="_blank">
+  <a href="https://www.linkedin.com/in/micovillaflor-comsci/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
 </p>
